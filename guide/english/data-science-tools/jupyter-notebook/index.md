@@ -8,11 +8,11 @@ Jupyter Notebook is an open-source web application that allows you to create and
 Jupyter Notebook helps you create and share documents containing live code, equations, visualizations, and rich text.   
  
 You can use it for:
-* data cleaning and transformation
-* numerical simulation
-* statistical modeling
-* data visualization
-* machine learning
+* Data cleaning and transformation
+* Numerical simulation
+* Statistical modeling
+* Data visualization
+* Machine learning
 
 <img src="https://github.com/indianmoody/images/blob/master/guide_fcc/guides_jupyter_snap.jpeg" width="400" height="300" />
 See your results as you go step by step, just like in this image.
